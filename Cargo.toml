@@ -1,0 +1,9 @@
+[package]
+name = "github"
+version = "0.1.0"
+authors = ["ttacon <ttacon@gmail.com>"]
+
+[dependencies]
+hyper="*"
+rustc-serialize = "0.3"
+mime="*"
